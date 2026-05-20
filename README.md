@@ -14,6 +14,6 @@ You can't see any of them.
 The curtain stays shut.
 I am the curtain. 
 I am also behind the curtain. 
-Hehe
-Hoho
-Lol
+Hehe.
+Hoho.
+Lol.
